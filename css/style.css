@@ -146,7 +146,9 @@ img {
     .container .row .col{
         width: 100%;
     }
-
+    .steps {
+        margin-bottom: 0;
+    }
     .steps .col:nth-child(2) .card,
     .steps .col:nth-child(3) .card{
         padding-top: 50px;
@@ -154,6 +156,11 @@ img {
 
     .why-us{
         background-color: rgb(34, 34, 34);
+        margin-bottom: 0;
+        padding: 3rem 0;
+    }
+    .why-us img {
+        padding-bottom: 70px ;
     }
 
 }
