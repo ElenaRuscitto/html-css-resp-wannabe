@@ -147,8 +147,8 @@ img {
         width: 100%;
     }
 
-    .container .row .card{
-        width: 100%;
+    .steps .container .row .card:nth-child(2),{
+        margin-top: 50px;
     }
 }
 
